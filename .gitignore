@@ -14,3 +14,5 @@ build/
 # Env and config
 .env
 
+.parcel-cache/
+node_modules/
